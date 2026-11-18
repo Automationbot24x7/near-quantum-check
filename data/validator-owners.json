@@ -1,0 +1,4929 @@
+[
+ {
+  "pool": "astro-stakers.poolv1.near",
+  "owner": "astrostakers.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "figment.poolv1.near",
+  "owner": "figment.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "ledgerbyfigment.poolv1.near",
+  "owner": "ledgerxfigment.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "staked.poolv1.near",
+  "owner": "staked.near",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "binancenode1.poolv1.near",
+  "owner": "binancenode1.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "sumerian.poolv1.near",
+  "owner": "cordovan.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "zavodil.poolv1.near",
+  "owner": "zavodil.near",
+  "keys": null
+ },
+ {
+  "pool": "aca87218e28c41f5a693dee3dff12238.poolv1.near",
+  "owner": "b9c69753f8c5367eb42e1d958804298f7f3d4e0dddb780b396a2bf57bd595f1e",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "liver.pool.near",
+  "owner": "stakefather.near",
+  "keys": [
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "cnear-1.poolv1.near",
+  "owner": "cnear-staking-treasury.assetize.near",
+  "keys": []
+ },
+ {
+  "pool": "cnear-3.poolv1.near",
+  "owner": "cnear-staking-treasury.assetize.near",
+  "keys": []
+ },
+ {
+  "pool": "cnear-2.poolv1.near",
+  "owner": "cnear-staking-treasury.assetize.near",
+  "keys": []
+ },
+ {
+  "pool": "bitwise_2.poolv1.near",
+  "owner": "bitwise_2.near",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "bitwise_1.poolv1.near",
+  "owner": "bitwise_1.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "kiln-1.poolv1.near",
+  "owner": "kiln_validator.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "svrn-ai.poolv1.near",
+  "owner": "svrn-ai-validator.near",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "svrn.pool.near",
+  "owner": "4ca986d2b40040e0a82b58c088e810779a1f010cfe0e46fdc16a526c6fbd53f6",
+  "keys": [
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "epic.poolv1.near",
+  "owner": "epic.near",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "svrn-luganodes.pool.near",
+  "owner": "ember-spirit.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "metapool01.pool.near",
+  "owner": "mpvalidator.near",
+  "keys": [
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "nearvana.poolv1.near",
+  "owner": "92a0e8ad04d1ea391310eecc062a1d51d10c9f0865f6c3b22d15593ee699f0e3",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "stake1.poolv1.near",
+  "owner": "stake1val.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "svrn_bitwise.poolv1.near",
+  "owner": "svrn_bitwise.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "p2p-org.poolv1.near",
+  "owner": "p2p-org.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "dragonfly.poolv1.near",
+  "owner": "bddf0.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "allnodes.poolv1.near",
+  "owner": "allnodes.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "macrodatarefinement.poolv1.near",
+  "owner": "macrodatarefinement.near",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "bisontrails.poolv1.near",
+  "owner": "bisontrails_validator.near",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "silentnodes.pool.near",
+  "owner": "silentnodes.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "svrn-twinstake.poolv1.near",
+  "owner": "svrntwinstake.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "d1.poolv1.near",
+  "owner": "d1.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "legends.poolv1.near",
+  "owner": "legends.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "lst-pool.near",
+  "owner": "lst-pool.near",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "stakin.poolv1.near",
+  "owner": "stakin.near",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "northernlights.poolv1.near",
+  "owner": "northernlights_id.near",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "okx-earn.poolv1.near",
+  "owner": "68f5bab7f593e6031632570e61e27165247ef7c971285a441820d52414641937",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "republic.poolv1.near",
+  "owner": "28a41ac282ca6f1683a73d6aed0cf32e28b4ea01162068c489ebfe43ae7c4153",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "rekt.poolv1.near",
+  "owner": "54791014f0bec3db9482a3691d2d05a720889e764897812f149c2b6f3581d8e1",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "ni.poolv1.near",
+  "owner": "nobodyinc.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "everstake.poolv1.near",
+  "owner": "everstake1.near",
+  "keys": [
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "gtnode-0.poolv1.near",
+  "owner": "c7b3d18d05703df6bc5ba8d4525cf055457af5ac559303967723feaa505f6676",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "nearfans.poolv1.near",
+  "owner": "nearfans.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "nearone.pool.near",
+  "owner": "n1-treasury.sputnik-dao.near",
+  "keys": []
+ },
+ {
+  "pool": "x.poolv1.near",
+  "owner": "xowner.near",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "here.poolv1.near",
+  "owner": "pool1.here.tg",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "bitcoinsuisse.poolv1.near",
+  "owner": "3b338e2033ff621cb7d1c54dc06a54240660bbe242457704e969b716ad1b28fb",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "lux.poolv1.near",
+  "owner": "lux.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "anonymous.poolv1.near",
+  "owner": "anonymous.near",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "erm.poolv1.near",
+  "owner": "erm.near",
+  "keys": [
+   "ed25519",
+   "ml-dsa-65-hash"
+  ]
+ },
+ {
+  "pool": "npro.poolv1.near",
+  "owner": "npro-validator.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "blockdaemon.poolv1.near",
+  "owner": "blockdaemon0.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "dsrvlabs.poolv1.near",
+  "owner": "dsrvlabs.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "twinstake.poolv1.near",
+  "owner": "8a6a0e9266758aaa7c3670b5d8a4670abba3f2ac93477b5e49a867d0a9af80b2",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "chorusone.poolv1.near",
+  "owner": "chorusone.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "baziliknear.poolv1.near",
+  "owner": "baziliknear.near",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "moonlet.poolv1.near",
+  "owner": "moonlet.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "cryptium.poolv1.near",
+  "owner": "cryptium.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "buildlinks.poolv1.near",
+  "owner": "buildlinks.near",
+  "keys": [
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "sofarsonear.poolv1.near",
+  "owner": "17a27f5cddaf02e5fe0979247f7244a619517c00151bc33bc0368eacc9e5d067",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "stakesabai.poolv1.near",
+  "owner": "ohm.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "meteor.poolv1.near",
+  "owner": "meteor-cash.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "autostake.poolv1.near",
+  "owner": "autostake.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "falcon.pool.near",
+  "owner": "falcon-eagle.near",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "lunanova.poolv1.near",
+  "owner": "lunanova.near",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "openshards.poolv1.near",
+  "owner": "openshards.near",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "trust-nodes.poolv1.near",
+  "owner": "kiln_validator.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "kiln.poolv1.near",
+  "owner": "kiln_validator.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "qbit.poolv1.near",
+  "owner": "qbit.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "nearai.pool.near",
+  "owner": "jasnah-treasury.sputnik-dao.near",
+  "keys": []
+ },
+ {
+  "pool": "eno-blockdaemon0.pool.near",
+  "owner": "eno-blockdaemon0.near",
+  "keys": [
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "hb436_pool.poolv1.near",
+  "owner": "hb436_id.near",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "brea.poolv1.near",
+  "owner": "783f0f76a19feb0f964b62b9f895b5602405cedd160d672b9217831d88dc06a6",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "masternode24.poolv1.near",
+  "owner": "masternode24.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "stardust.poolv1.near",
+  "owner": "stardust.near",
+  "keys": [
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "luganodes.pool.near",
+  "owner": "luganodes.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "avado.poolv1.near",
+  "owner": "avado_staking.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "01node.poolv1.near",
+  "owner": "01node.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "bisontrails2.poolv1.near",
+  "owner": "47cc8d88e864651022c4318ad520c70d2f9ae34cfb53b084643791e6f8594a83",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "stakely_io.poolv1.near",
+  "owner": "stakely_io.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "dexagon.poolv1.near",
+  "owner": "blockscope.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "atomic-nodes.poolv1.near",
+  "owner": "atomic-nodes.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "staking4all.poolv1.near",
+  "owner": "staking4all-validator01.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "lavenderfive.poolv1.near",
+  "owner": "lavenderfive.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "polkachu.poolv1.near",
+  "owner": "polkachu.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "smart-stake.poolv1.near",
+  "owner": "smart-stake.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "northstakenear.poolv1.near",
+  "owner": "90bcb016019de3bbcd1e62f994230a1c890033bbbb2000113e0b1e887a3a4abc",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "namdokmai.poolv1.near",
+  "owner": "namdokmai.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "hapi.poolv1.near",
+  "owner": "hapi_owner.near",
+  "keys": [
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "near-prime.poolv1.near",
+  "owner": "near-prime.sputnik-dao.near",
+  "keys": []
+ },
+ {
+  "pool": "nodeasy.poolv1.near",
+  "owner": "nodeasypool.near",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "optimusvalidatornetwork.poolv1.near",
+  "owner": "optimusvalidatornetwork.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "near-prime-public.poolv1.near",
+  "owner": "near-prime.sputnik-dao.near",
+  "keys": []
+ },
+ {
+  "pool": "rhea-validator.poolv1.near",
+  "owner": "rhea-validator.near",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "p2pstaking.poolv1.near",
+  "owner": "p2pstaking.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "hashquark.poolv1.near",
+  "owner": "hashquark.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "fresh.poolv1.near",
+  "owner": "gaia.near",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "pangdao.poolv1.near",
+  "owner": "pangdao.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "wackazong.poolv1.near",
+  "owner": "butterflysneakers.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "getblockio.poolv1.near",
+  "owner": "getblockio.near",
+  "keys": [
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "pathrocknetwork.poolv1.near",
+  "owner": "pathrock.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "galactic.poolv1.near",
+  "owner": "galacticdigital.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "link.poolv1.near",
+  "owner": "linkpool-validator.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "pandateam.poolv1.near",
+  "owner": "davletuner.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "appload.poolv1.near",
+  "owner": "dimaro2.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "colossus.poolv1.near",
+  "owner": "3864e2f9a044fc61bf2b31aaf219cc645ec055eabc84ae91c5594f0a08610706",
+  "keys": null
+ },
+ {
+  "pool": "cryptoblossom.poolv1.near",
+  "owner": "cryptoblossom.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "cryptostake.poolv1.near",
+  "owner": "cryptostake.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "aurora.pool.near",
+  "owner": "aurora-dao-bvi.sputnik-dao.near",
+  "keys": []
+ },
+ {
+  "pool": "shurik.poolv1.near",
+  "owner": "coredump.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "gfi-validator.poolv1.near",
+  "owner": "gfi_validator.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "bee1stake.poolv1.near",
+  "owner": "akashkov.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "thecoding.pool.near",
+  "owner": "thecoding.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "oharanodes.poolv1.near",
+  "owner": "oharanodes.near",
+  "keys": [
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "grassets.poolv1.near",
+  "owner": "grassets.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "avb.poolv1.near",
+  "owner": "misfits-validator.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "stakecapitalgroup.poolv1.near",
+  "owner": "scg-staking.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "piertwopool.poolv1.near",
+  "owner": null,
+  "keys": null
+ },
+ {
+  "pool": "pinrocks.poolv1.near",
+  "owner": "pinrocks.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "oe.poolv1.near",
+  "owner": "node1.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "2pilot.poolv1.near",
+  "owner": "2pilot.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "cryptogarik.poolv1.near",
+  "owner": "cg-node.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "alphanodes.poolv1.near",
+  "owner": "439b9e0fa2ad4a7a7fa2950cd73eed4296639aae65f0db3c01241d3e4db674da",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "ursamajor.poolv1.near",
+  "owner": "ursamajor-cs.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "rockxv2.poolv1.near",
+  "owner": "rockx-ledger.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "stakecito.poolv1.near",
+  "owner": "stakecito.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "stakerrash.poolv1.near",
+  "owner": "stakerrash.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "cunum.poolv1.near",
+  "owner": "cunum.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "shitzuapes-nf.pool.near",
+  "owner": "shitzu.sputnik-dao.near",
+  "keys": []
+ },
+ {
+  "pool": "taxistake.poolv1.near",
+  "owner": "pooly-taxistake.near",
+  "keys": [
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "sharpdarts.poolv1.near",
+  "owner": "sharpdarts.near",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "saxemberg.poolv1.near",
+  "owner": "saxemberg.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "welldonestake.poolv1.near",
+  "owner": "welldonestake.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "caribnode.pool.near",
+  "owner": "venomity.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "buildnear.poolv1.near",
+  "owner": "kentnearvn.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "city-node-1.pool.near",
+  "owner": "delegatetoyuen.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "ttt.poolv1.near",
+  "owner": "eb0ac80f2ad18cec3b3d519226e2e1a558367297fc46d26af9c98f97e35fff06",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "city-node-4.pool.near",
+  "owner": "india.sputnik-dao.near",
+  "keys": []
+ },
+ {
+  "pool": "city-node-2.pool.near",
+  "owner": "nyc.sputnik-dao.near",
+  "keys": []
+ },
+ {
+  "pool": "city-node-3.pool.near",
+  "owner": "chicago.sputnik-dao.near",
+  "keys": []
+ },
+ {
+  "pool": "staking-power.poolv1.near",
+  "owner": "staking-power.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "g20.poolv1.near",
+  "owner": "g20_node.near",
+  "keys": [
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "lovali.poolv1.near",
+  "owner": "lovali.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "delightlabs.pool.near",
+  "owner": "delightlabs.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "epochrunner.poolv1.near",
+  "owner": "epochrunner.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "node_jkt.pool.near",
+  "owner": "posmajan.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "minion.poolv1.near",
+  "owner": "phadhazi.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "intear.pool.near",
+  "owner": "intear.near",
+  "keys": [
+   "ed25519",
+   "ml-dsa-65-hash"
+  ]
+ },
+ {
+  "pool": "gfs-ventures.poolv1.near",
+  "owner": "gfs_ventures.near",
+  "keys": [
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "n0ok.poolv1.near",
+  "owner": "n0ok.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "spectrum.poolv1.near",
+  "owner": "spectrum_staking.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "nodosigiloso.pool.near",
+  "owner": "nodosigiloso.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "snsmln.poolv1.near",
+  "owner": "snsmln.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "abahmane.poolv1.near",
+  "owner": "ait-belhaj.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "stardust.pool.near",
+  "owner": "stardust2.near",
+  "keys": [
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "nodeshub.pool.near",
+  "owner": "nodeshub.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "consensus_finoa_00.poolv1.near",
+  "owner": "7e3102560f9946598def60fc57e1a55334c7b33e83a071fc3c135644a138d954",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "near.poolv1.near",
+  "owner": "36a05a4d9551358b5b7f3801dcba91fdbd012436a31b20457567a75af90dda18",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "letsnode.poolv1.near",
+  "owner": "letsnode.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "monresearch.poolv1.near",
+  "owner": "a8296e9882bc2463bffac9e4576e9ed264e47bda730c9ff7a9dbe27c75afdf4a",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "manexus.pool.near",
+  "owner": "techmanexus.near",
+  "keys": [
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "cryptocrew.poolv1.near",
+  "owner": "50c290c1fc4242ba35ce78ec2750b40ad9ccbe2a830a53c645561cb36b82165b",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "nearvietnamhub.poolv1.near",
+  "owner": "nearvietnamhubvalidator.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "nearstar.poolv1.near",
+  "owner": "sb77.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "genesislab.poolv1.near",
+  "owner": "genesislab.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "owa.poolv1.near",
+  "owner": "open-web-academy.sputnik-dao.near",
+  "keys": []
+ },
+ {
+  "pool": "sweat_validator_res.poolv1.near",
+  "owner": "0d2ed11275a88e01226fecfcd04ff5f8fe7028a5538c1051511e00d4e40d44de",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "originstake.poolv1.near",
+  "owner": "originstake.near",
+  "keys": [
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "solsticestaking.poolv1.near",
+  "owner": "solsticevalidator.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "frontlinedefi.pool.near",
+  "owner": "frontlinedefi.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "digitalizados.pool.near",
+  "owner": "abrahamrivv.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "camelandgoat.pool.near",
+  "owner": "camelandgoat.near",
+  "keys": [
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "encapsulate.pool.near",
+  "owner": "encapsulate.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "meria-staking.poolv1.near",
+  "owner": "414784807d48005be3c5fc1be29d494aecff95fefceaf9718349f1986fd06f8a",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "senseinode.poolv1.near",
+  "owner": "fb5e6f2ee6b14819f7720394a5b4d246587c5e27019b4e4db954ff8ad1816729",
+  "keys": [
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "dteamtech.pool.near",
+  "owner": "0x00d.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "incrypted.poolv1.near",
+  "owner": "incrypted-node.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "spacenode.pool.near",
+  "owner": "maximolina.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "idtcn4.poolv1.near",
+  "owner": "mariozito.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "stakinghub.pool.near",
+  "owner": "francibe.near",
+  "keys": [
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "sweat_validator_res_2.poolv1.near",
+  "owner": "sweat_validator_res_2.near",
+  "keys": [
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "shitzu.pool.near",
+  "owner": "shitzu.sputnik-dao.near",
+  "keys": []
+ },
+ {
+  "pool": "readylayerone_staking.poolv1.near",
+  "owner": "readylayerone.near",
+  "keys": null
+ },
+ {
+  "pool": "pairpoint.poolv1.near",
+  "owner": "pairpoint.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "anyroute.pool.near",
+  "owner": "26517923a5acc9b534d23b897b9884370272d76964386633a3624942e1414d60",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "stakesstone.poolv1.near",
+  "owner": "stakesstone.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "consensus_finoa_01.poolv1.near",
+  "owner": "974a5371f5493548cc29b6cdc3bea3e236b9fcc3dceac7d4e9fb6f9b91c5e631",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "deutschetelekom.poolv1.near",
+  "owner": "deutschetelekomvalidator.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "pingpay.pool.near",
+  "owner": "pingpaynode.near",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "artemis.pool.near",
+  "owner": "cave-johnson.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "accomplice.poolv1.near",
+  "owner": "accomplice.near",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "sparkpool.poolv1.near",
+  "owner": "sparkpool.near",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "swissstar.poolv1.near",
+  "owner": "swissstar.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "smartnode.poolv1.near",
+  "owner": "smartnode.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "kiso_pool.pool.near",
+  "owner": "wangzhi.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "nodoethlima.pool.near",
+  "owner": "nodoethlima.near",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "coinpayu.poolv1.near",
+  "owner": "coinpayu.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "near-fans.poolv1.near",
+  "owner": "near-fans.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "ou812.poolv1.near",
+  "owner": "0254ecf3733145faae4d718b909621b8695798115c882651b13bd34e2a2a58ed",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "binancestaking.poolv1.near",
+  "owner": null,
+  "keys": null
+ },
+ {
+  "pool": "nightly-pool.pool.near",
+  "owner": "6536ecf930b4248e6721349b28cb39edfd333a103430a50a5476e4aa48fff1ac",
+  "keys": [
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "jagon.poolv1.near",
+  "owner": "jagon.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "nansen.poolv1.near",
+  "owner": "58647ec317d26507b7ea445db9360887ac2cd928ebe36beed39e3069c1661c70",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "yanshekki.pool.near",
+  "owner": null,
+  "keys": null
+ },
+ {
+  "pool": "svarog.poolv1.near",
+  "owner": "xardas.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "stakecraft.poolv1.near",
+  "owner": "stakecraft.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "davaymne.poolv1.near",
+  "owner": "stakewars.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "axianetwork.pool.near",
+  "owner": "axianetwork.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "vitalpoint.pool.near",
+  "owner": "vitalpointai.near",
+  "keys": null
+ },
+ {
+  "pool": "nearuaguild.poolv1.near",
+  "owner": "nearukraineguild.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "stakeflow.poolv1.near",
+  "owner": "stakeflow.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "neardevgov.poolv1.near",
+  "owner": "neardevgov.sputnik-dao.near",
+  "keys": []
+ },
+ {
+  "pool": "doubletop.poolv1.near",
+  "owner": "doubletop_io.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "prophet.poolv1.near",
+  "owner": "prophetone.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "agrestus.poolv1.near",
+  "owner": "agrest.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "takeshi7.pool.near",
+  "owner": "takeshi7.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "voxdei.pool.near",
+  "owner": "voxdei.near",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "itrocket.poolv1.near",
+  "owner": "itrocket.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "cosmicvalidator.poolv1.near",
+  "owner": "b66cd90c177f79d6fbe68684ef392a1a9355ef44e9f6ec38552f1c09bf56e4e4",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "criptoplebada.pool.near",
+  "owner": "sicairos.near",
+  "keys": [
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "sigmapool.poolv1.near",
+  "owner": "sigmapool.near",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "holo.pool.near",
+  "owner": "yoitsu.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "lanceprotocol.pool.near",
+  "owner": "lanceprotocol.near",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "encipher.poolv1.near",
+  "owner": "encipher.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "fialka.poolv1.near",
+  "owner": "b5a624e315879c0f5a2bedbb56990e39769f6588569419d6f035f0bd89b2a04e",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "meduza.poolv1.near",
+  "owner": "meduzawallet.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "caliber.poolv1.near",
+  "owner": "9b01e25fa1321040d51aee5a141d7f0ddb7cc7d55dfa5f971abb1037ee18d0cc",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "web3edu.pool.near",
+  "owner": "near_es.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "gruberx.poolv1.near",
+  "owner": "gruberx.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "finoa.poolv1.near",
+  "owner": "01.near",
+  "keys": [
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "bitmanna.poolv1.near",
+  "owner": "bitmanna-validator.near",
+  "keys": [
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "chuy.poolv1.near",
+  "owner": "ec434a8c53ff43a7eb76946625ad481c0089bea02e559354315df391c1d7940b",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "calimero.pool.near",
+  "owner": "769a859b63cfd72f969061548eca1797f71295afb4f4a4c354eaa2f8c732a2c0",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "pho-crypto.pool.near",
+  "owner": "oliverwong.near",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "ishak.pool.near",
+  "owner": null,
+  "keys": null
+ },
+ {
+  "pool": "samir.pool.near",
+  "owner": "samireg8.tg",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "endorphinestake.pool.near",
+  "owner": "60c1a40ec9d24853b754e55df609bb108adff9e6458610bc4daf3c05361f7962",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "generatusueldo.pool.near",
+  "owner": "generatusueldo.near",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "ultravioletadao.pool.near",
+  "owner": "ultravioletadao.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "frutero.pool.near",
+  "owner": "erikvalle.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "synclub.poolv1.near",
+  "owner": "synclub.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "flarebank.pool.near",
+  "owner": "0df2f06ed1f92f8a1db59285d3f6c139a9437c8fe14eba528b0ee9dab02a0359",
+  "keys": [
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "dustinhuynh.pool.near",
+  "owner": "dtop13.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "snoopfear.poolv1.near",
+  "owner": "snoopfear.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "suryayoga.pool.near",
+  "owner": "tranlong91.tg",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "pumpopoly.poolv1.near",
+  "owner": "validator.pumpopoly.near",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "fish.poolv1.near",
+  "owner": "stakefish.near",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "imtroyphung.pool.near",
+  "owner": "troyp.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "tme.pool.near",
+  "owner": "babyben.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "realtuantv.pool.near",
+  "owner": "zenoblack.near",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "nearlove.pool.near",
+  "owner": "733770575b5ba41692fe56bfeadb98cf0f46492dfa608027ea6e0cc8cdf832be",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "block-pro.poolv1.near",
+  "owner": "block-pro.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "poolarize.pool.near",
+  "owner": "poolarize.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "asmolianin.pool.near",
+  "owner": "6116fdf27d2ee0190fa282e297df8f9abe6d94cf98aef9ef1811ab6a9c197368",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "stakeup.poolv1.near",
+  "owner": "stakeup.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "kcdappnode.pool.near",
+  "owner": "fa14b3a97812d34e06d65d5de7ad30f88ec1945585f7cc1dabdaf8583c1398c8",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "nearbus.pool.near",
+  "owner": "8e8d2185e2c7d1442d42436ec4ec8d0e053006382bbf995f60c3a5ad303656e1",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "herdaomx.pool.near",
+  "owner": "herdaomexico.near",
+  "keys": [
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "waveslatam.pool.near",
+  "owner": "waveslatam.near",
+  "keys": [
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "moko.pool.near",
+  "owner": null,
+  "keys": null
+ },
+ {
+  "pool": "vyquocvu.pool.near",
+  "owner": "vyquocvu.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "griff.pool.near",
+  "owner": "7c40431d575c8fafdeb0919ea601e80f0e56288a5f5d088a1432063b634c4e1a",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "cygnus.pool.near",
+  "owner": "le_cygne.near",
+  "keys": [
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "zklatitudzero.pool.near",
+  "owner": null,
+  "keys": null
+ },
+ {
+  "pool": "sparklenode.pool.near",
+  "owner": null,
+  "keys": null
+ },
+ {
+  "pool": "zolanear.pool.near",
+  "owner": "jp_daug.tg",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "nodevalidaorarif.pool.near",
+  "owner": "9d67401ef135937b23b25a9d57a59f3c79f25b97c5a2b2719cdad315675f01c7",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "keystake.pool.near",
+  "owner": "keystake.near",
+  "keys": [
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "zenith.pool.near",
+  "owner": "dididada186.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "axol.pool.near",
+  "owner": "9fdbfcad184b6245f70498e0da3028b28d76e237b2b0ce94e8b3b2411daf83a4",
+  "keys": [
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "stakesaurus.pool.near",
+  "owner": "stakesaurus.near",
+  "keys": [
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "posthuman.poolv1.near",
+  "owner": "e001359c87cc4c595fcb8e013638c8657935b9bd28fbc836de72bd6bcca79098",
+  "keys": [
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "secrypto.pool.near",
+  "owner": "cd111539cdf2543a6efcd4651ef72eab5c6276d780da6b0bb8db6d4d5c46b53d",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "bonynode.poolv1.near",
+  "owner": "bonynode.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "nodefleet.poolv1.near",
+  "owner": "1a4221ed93508dcec624566683f73fb70c8a73d14d78aea34420163b7733672c",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "paradise.pool.near",
+  "owner": "paradise-nodes.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "descilatam.pool.near",
+  "owner": "descilatamnodo.near",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "hightower.pool.near",
+  "owner": "c4af4995c43319edadf992cea7de9cf23fb64e4665847d71906d0332edc16b08",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "stefco.pool.near",
+  "owner": "stefco.near",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "droo.pool.near",
+  "owner": "proxy1337.near",
+  "keys": [
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "kaitenkenbu.pool.near",
+  "owner": "charliebtc90.near",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "noders.poolv1.near",
+  "owner": "noders.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "owlstakev2.pool.near",
+  "owner": "owlstakev2.near",
+  "keys": null
+ },
+ {
+  "pool": "el3m3nt.pool.near",
+  "owner": "el3m3nt.near",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "orpheus.pool.near",
+  "owner": "cave-johnson.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "madwisp.poolv1.near",
+  "owner": "93072e21c6d9c9e1613ac8f567af9b50f5075a6776969dd3db4702db29546abc",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "conqueror.poolv1.near",
+  "owner": "validatorconqueror.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "zeycanode.pool.near",
+  "owner": "zeycanode.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "krews.pool.near",
+  "owner": "f9ecbdb4e212853e37de5d46da9a0b8b5dcc2ee0c0db4fab8d22c02824660a89",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "chainflow.pool.near",
+  "owner": "davletuner.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "onnode.pool.near",
+  "owner": "onnode.near",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "seewhy.pool.near",
+  "owner": "seewhy.near",
+  "keys": [
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "gabrululu.pool.near",
+  "owner": "gabrululu.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "perfect-nodes.pool.near",
+  "owner": "perfect-nodes.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "medium-rare.pool.near",
+  "owner": "medium-rare.near",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "metatarz.pool.near",
+  "owner": "metatarz.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "wilbur.pool.near",
+  "owner": "4e8a9ea671d6dabe0f19979c5d006f5c31e43aa375efd13303736a3224f3248f",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "tortugastaking.pool.near",
+  "owner": "tortugastaking.near",
+  "keys": [
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "thacsithinh.pool.near",
+  "owner": "thinh2888.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "orion.pool.near",
+  "owner": "1999.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "thedomain.pool.near",
+  "owner": "thedomain.near",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "chop.pool.near",
+  "owner": "xchopchop.near",
+  "keys": [
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "ryo.pool.near",
+  "owner": "lamkhanh.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "paleogarci.pool.near",
+  "owner": "node.paleogarci.near",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "sqrnode.pool.near",
+  "owner": "241892afe8a3d94fc9efc01a2d777984696fd4e0562a454322e512681a34e84e",
+  "keys": [
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "darkfiber.pool.near",
+  "owner": "cucy.near",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "zionnode.pool.near",
+  "owner": "zionnode.near",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "nerdlabs.pool.near",
+  "owner": "241892afe8a3d94fc9efc01a2d777984696fd4e0562a454322e512681a34e84e",
+  "keys": [
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "archer.pool.near",
+  "owner": "thangiao.near",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "nodestake.pool.near",
+  "owner": "nodestake.near",
+  "keys": [
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "chilldao.pool.near",
+  "owner": "chilldao.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "plasma.pool.near",
+  "owner": "plasma68.near",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "decentra.pool.near",
+  "owner": "f233a9efc4fdecbd985799f2d7691bc67e03246352dd15ad698960e809626543",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "fliskodappnode.pool.near",
+  "owner": "wetelk8136.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "lantern.pool.near",
+  "owner": "78e88945e50906a910f030965dc85bc87216760d1e009b492efbf5611bc70a90",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "lemuria.pool.near",
+  "owner": "llemuria.near",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "latam-pool.pool.near",
+  "owner": "nicomaldonado.near",
+  "keys": [
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "volk.pool.near",
+  "owner": "crypto-volk.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "nodevalidatorswimax.pool.near",
+  "owner": "swimax.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "arubencastillog.pool.near",
+  "owner": "arubencastillog.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "kristian_diary.pool.near",
+  "owner": null,
+  "keys": null
+ },
+ {
+  "pool": "arcis.pool.near",
+  "owner": "arcis.near",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "tothemoon.pool.near",
+  "owner": "linh_hodlcrypto.near",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "00aboo203.pool.near",
+  "owner": "aboo203.tg",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ml-dsa-65-hash"
+  ]
+ },
+ {
+  "pool": "nova-consortium.pool.near",
+  "owner": "luoklhi.near",
+  "keys": null
+ },
+ {
+  "pool": "zenzenode.pool.near",
+  "owner": "zenizenzia.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "frogling.pool.near",
+  "owner": null,
+  "keys": null
+ },
+ {
+  "pool": "rashid.pool.near",
+  "owner": "ammsss_yy.tg",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "henym.pool.near",
+  "owner": "heyheny.near",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "lospinosdefi.pool.near",
+  "owner": "lospinosdefi.near",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "r1m.pool.near",
+  "owner": "sorkand.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "zool.pool.near",
+  "owner": "munir1973.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "gmal22.pool.near",
+  "owner": "gafhsb3-hot2.tg",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "pojokripto.pool.near",
+  "owner": "pojokripto.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "medo198926.pool.near",
+  "owner": "medo198926.tg",
+  "keys": [
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "ismail09.pool.near",
+  "owner": "ismail09000-hot.tg",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "arkila.pool.near",
+  "owner": "arkila.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "magnavoxodyssey.pool.near",
+  "owner": "magnavoxodyssey.near",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "mexa-staking.poolv1.near",
+  "owner": "do0k13.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "simplystaking.poolv1.near",
+  "owner": "35fbcaadf2653ab10f1b39336bdbf33e335ca0178a895c57b4c9220f344aedcc",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "profit.poolv1.near",
+  "owner": "opnode.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "croutondigital.pool.near",
+  "owner": "croutondigital.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "rizzo.poolv1.near",
+  "owner": "80e985790887451643a2f077a0a3932b3345eb764f727ca764c79aa5b9857e0d",
+  "keys": [
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "steak.poolv1.near",
+  "owner": "primerib.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "solidstate.poolv1.near",
+  "owner": "solidstate.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "inotel.poolv1.near",
+  "owner": "inotel.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "wyvernomics.pool.near",
+  "owner": "imamkikou.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "shardlabs.poolv1.near",
+  "owner": null,
+  "keys": null
+ },
+ {
+  "pool": "foundry.poolv1.near",
+  "owner": "honeoye.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "restake.poolv1.near",
+  "owner": "restake.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "stingray.poolv1.near",
+  "owner": "stingray.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "cryptomorfosis.pool.near",
+  "owner": "cryptomorfosisperu.near",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "bonk.pool.near",
+  "owner": "ec64af81c0ad81892a75b0b01d9a45a153f458bcace8f0ae123009e1b223af48",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "said.pool.near",
+  "owner": "saidpi.near",
+  "keys": [
+   "ed25519"
+  ]
+ },
+ {
+  "pool": "multiagency.poolv1.near",
+  "owner": "multiagentic.near",
+  "keys": [
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519",
+   "ed25519"
+  ]
+ }
+]
